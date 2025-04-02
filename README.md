@@ -30,4 +30,3 @@ npm run cy:open
 4. O participante está livre pra tentar checar os casos além do _Happy Flows_, como os _Bad flows_ ou os _Cancel Flows_, ou flows com diferentes users.
    1. Não será cobrado testes com outros navegadores (ou sistemas operacionais diferentes), testes com zoom in/zoom out, testes com diferentes _ViewPorts_, e testes com _Clicks_ simultâneos.
    2. Os flows extras deverão ser adicionados em um arquivo de teste separados dos demais, com o nome `4_extras.cy.js`.
-5. Ao terminar todos os testes, o participante deverá criar um repositório no [github](https://github.com/) e compartilhar com o email `max@heavyconnect.com` com o Assunto `Pratical Test: [NOME_DO_CANDIDATO]`. 
